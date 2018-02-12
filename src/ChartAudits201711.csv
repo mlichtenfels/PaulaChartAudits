@@ -1,0 +1,60 @@
+﻿Submission Date,First Name,Last Name,Patient Initials (First Name),Patient Initials (Last Name),H#,Home Medication/Allergies reconciled day of surgery,Preop checklist completed,Pre-procedure verification co-signed,H&P updated with correct phrase prior to surgery,"Implants documented (must include lot number, site, and expiration date)",Wound class documented,Temperature > 96.8 degrees F,"If temperature < 96.8, warming interventions documented",Repeat temp with second set of vital signs (PACU only),Post-anesthesia note/sign-out documented,Brief operative note completed by surgeon,Pain documented: >> In Preop,Pain documented: >> Admission to Phase I,Pain documented: >> Discharge from Phase I,Pain documented: >> Admission to Phase II,Pain documented: >> Discharge from Phase II,Pain score documented within 60 minutes of pain intervention,Care Plan Interventions Completed >> Preop,Care Plan Interventions Completed >> Phase I,Care Plan Interventions Completed >> Phase II,Comments
+2017-11-30 20:20:10,Tara,Bounds,E,G,00067050754,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-30 19:53:24,Tara,Bounds,A,H,00056894058,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+2017-11-30 19:52:11,Tara,Bounds,J,K,00057089153,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+2017-11-30 19:11:41,Tara,Bounds,D,H,00056984065,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,
+2017-11-30 19:10:06,Tara,Bounds,D,A,00057021800,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-30 15:10:38,AMANDA,PARKS,A,M,00056991540,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-30 15:09:57,AMANDA,PARKS,E,T,0005709552,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-30 15:08:53,AMANDA,PARKS,M,S,00057028656,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-30 15:08:08,Amanda,Parks,M,S,00056840317,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-30 15:07:23,Amanda,Parks,M,T,00056893860,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-30 14:44:39,JANET,DAY,D,R,H0057037426,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,,Yes,,,N/A,Yes,Yes,,
+2017-11-30 14:43:23,JANET,DAY,S,M,H00056960909,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-30 14:42:04,JANET,DAY,L,D,H00057001505,No,Yes,Yes,Yes,N/A,,Yes,N/A,N/A,,Yes,Yes,Yes,Yes,,,,Yes,Yes,,
+2017-11-30 14:38:24,Janet,Day,M,D,H0056967094,Yes,Yes,Yes,No,N/A,,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,,Yes,Yes,,
+2017-11-27 14:34:27,Brian,Horn,L,F,H00056743107,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,,Yes,,
+2017-11-27 13:55:22,devon,ward,m,l,h00056933344,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Brief op note not completed by Dr. Hosford
+2017-11-27 13:51:32,devon,ward,e,t,h00057014862,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-27 13:47:17,devon,ward,k,m,h00057029795,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-27 13:41:31,devon,ward,a,r,h00056859531,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,N/A,Yes,Yes,Yes,
+2017-11-27 13:37:28,devon,ward,l,d,h00057058505,Yes,Yes,No,Yes,Yes,Yes,No,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-24 17:35:47,Charlotte,Miller,B,M,00056883200,Yes,Yes,,Yes,N/A,Yes,Yes,N/A,No,Yes,Yes,Yes,Yes,Yes,,Yes,N/A,Yes,Yes,Yes,
+2017-11-24 14:59:19,P Kay,Hill,H,B,57051922,,,,No,Yes,Yes,Yes,N/A,Yes,Yes,Yes,,Yes,Yes,,,N/A,,No,,"I think the care plans aren't put in awlays on the week ends and after hours. Pt went directly into OR so, no pre op. This was Dr DeMuth. H&Ps don't awlays say the correct verbage."
+2017-11-24 14:42:42,P Kay,Hill,C,H,56768344,Yes,Yes,Yes,No,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,H&P not correct verbage.
+2017-11-24 14:29:13,P Kay,Hill,P,C,57006868,Yes,Yes,Yes,No,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,H&P should of said after reviewing the H&P and re-examining the patient I find no changes.
+2017-11-24 14:20:34,P Kay,Hill,T,B,57061111,,,,Yes,N/A,Yes,Yes,N/A,No,Yes,Yes,,Yes,Yes,,,Yes,,No,,This pt was done on a Sat. H&P was updated on a consult. Kaitie misses 2nd temp in 10 minutes in PACU.
+2017-11-22 14:41:09,Sandra,Frederick,J,M,00056709710,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,,Yes,Yes,,,Yes,Yes,N/A,Yes,,Yes,SDS pt- local
+2017-11-22 14:39:08,Sandra,Frederick,C,S,00056479835,Yes,No,No,Yes,N/A,Yes,,N/A,N/A,Yes,Yes,,,,,,,,,,C-Section pt. No procedure verification.
+2017-11-22 14:33:23,Sandra,Frederick,M,C,000570009961,No,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,"SDS pt, Allergy not undated. preop intervention not completed - Devon"
+2017-11-22 14:28:36,sandra,Frederick,H,W,00056914542,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,ENDO PT
+2017-11-20 14:28:13,P Kay,Hill,L,W,57060931,,,,Yes,N/A,,Yes,N/A,No,Yes,Yes,,Yes,Yes,,,N/A,,Yes,,Pt was done on a Saturday and taken diredtly into OR.
+2017-11-14 09:40:38,Lisa,Vanaskey,S,H,00056767411,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-14 09:39:50,Lisa,Vanaskey,J,H,00056815574,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-14 09:38:58,Lisa,Vanaskey,A,W,00056614373,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,
+2017-11-14 09:37:55,Lisa,Vanaskey,K,M,00056964091,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-14 09:36:57,Lisa,Vanaskey,E,H,00056776748,No,Yes,Yes,Yes,No,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+2017-11-10 12:29:41,brian,horn,k,r,h00056826514,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-10 08:10:09,Brian,Horn,l,h,h00056930266,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-10 08:07:14,Brian,Horn,c,q,h00056979743,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-10 08:05:24,Brian,Horn,s,s,h00056963648,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-09 16:54:04,LAUREN,BIGGERS,S,H,H00056767411,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-09 16:52:08,LAUREN,BIGGERS,D,S,H00056694813,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,No,
+2017-11-09 16:51:16,LAUREN,BIGGERS,S,P,H00056922586,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,N/A,Yes,Yes,Yes,
+2017-11-09 16:49:23,LAUREN,BIGGERS,Y,S,H00056709447,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-09 16:48:20,LAUREN,BIGGERS,K,W,H00056718422,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-07 19:08:03,Charlotte,Miller,N,C,00056914740,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-07 19:06:09,Charlotte,Miller,J,W,00056718091,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,,,Yes,Yes,Yes,Yes,Yes,,Yes,Yes,Yes,
+2017-11-07 15:28:55,leah,ryan,n,c,14740,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,No,
+2017-11-07 15:27:51,leah,ryan,m,h,33054,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-07 15:26:46,leah,ryan,n,c,14740,Yes,,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-07 15:25:35,leah,ryan,p,b,16349,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,,Yes,,,N/A,Yes,Yes,,
+2017-11-07 15:24:09,leah,ryan,h,w,14542,Yes,,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,,
+2017-11-07 15:22:31,leah,ryan,j,d,14104,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,Yes,Yes,Yes,,
+2017-11-01 18:39:08,Christine,Lakatosh,E,H,00056776248,Yes,Yes,Yes,Yes,No,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
+2017-11-01 18:37:30,Christine,Lakatosh,C,z,00056789860,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-01 18:35:52,Christine,Lakatosh,M,S,00056965213,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,No,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-01 18:32:34,Christine,Lakatosh,M,W,00056895739,Yes,Yes,Yes,Yes,N/A,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,,,N/A,No,Yes,Yes,
+2017-11-01 18:29:29,Christine,Lakatosh,A,L,00056724388,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+2017-11-01 18:17:19,Charlotte,Miller,C,B,00056800006,Yes,Yes,Yes,Yes,N/A,Yes,,N/A,N/A,Yes,Yes,Yes,Yes,Yes,,,N/A,Yes,Yes,Yes,
+2017-11-01 18:14:30,Charlotte,Miller,M,M,00056906803,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,N/A,Yes,Yes,Yes,
